@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Comercializadora de Ropa Deportiva con Marketing Digital!</title>
+</head>
+<p>  
+     Biografía CRDMD Esta iniciativa nació por motivo de la pandemia en el 2019,muchas personas quedaron desempleadas por causa de esta misma, y nos vimos en la necesidad de reinventarnos, y creamos CRDMD que es una marca digital ,donde el consumidor puede hacerlo por medio de nuestros canales digitales, en el cual ofrecemos diferentes alternativas que benefician tanto a los usuarios como a nosotros como emprendedores,<p SER UNA MARCA DE REFERENCIA NACIONAL Y PIONERA EN EL SECTOR DE LA ROPA PERSONALIZADA A MEDIDA PARA CUALQUIER COLECTIVO DE DEPORTISTAS. COLOCARNOS EN EL TOP OF MIND  ENTRE LOS CONSUMIDORES DE LA COMUNIDAD DE EMPRENDEDORES.<p>VISION
+
+SER UNA MARCA DE REFERENCIA NACIONAL Y PIONERA EN EL SECTOR DE LA ROPA PERSONALIZADA A MEDIDA PARA CUALQUIER COLECTIVO DE DEPORTISTAS. COLOCARNOS EN EL TOP OF MIND  ENTRE LOS CONSUMIDORES DE LA COMUNIDAD DE COLOMBIA">
+
+<footer>
+    <p> Pedro Nel Fonseca Varela 11/28/2022.</p>
+    
+
+<body bgcolor="black" text="black"> 
+<body background="https://thumbs.dreamstime.com/z/mercadeo-digital-con-un-fondo-tecnol%C3%B3gico-ligero-marketing-de-luz-abstracto-y-desenfocado-166441258.jpg"
+
+
+
+</body>
+</html>
